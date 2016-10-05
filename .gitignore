@@ -34,4 +34,4 @@
 
 # JetBrains IDE files
 *.iml
-/.idea/
+.idea/
